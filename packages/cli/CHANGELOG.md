@@ -1,5 +1,11 @@
 # sv
 
+## 0.7.3
+### Patch Changes
+
+
+- security: Upgrade Vite to avoid CVE-2025-31125 ([#517](https://github.com/sveltejs/cli/pull/517))
+
 ## 0.7.2
 ### Patch Changes
 
